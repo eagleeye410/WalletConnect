@@ -1,4 +1,3 @@
-
 # WalletConnect: Decentralized Wallet Ecosystem Suite
 > "Empowering seamless transactions across the blockchain landscape, one connection at a time."
 
